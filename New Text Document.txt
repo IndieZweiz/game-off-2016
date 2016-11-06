@@ -1,0 +1,31 @@
+win
+- complete file upload (30~2 hrs?)
+
+lose
+- bsod x3 (account locked)
+- file corrupted
+
+halt progress
+- network
+
+hack signs
+http://www.infoworld.com/article/2612634/security/security-11-sure-signs-you-ve-been-hacked.html
+- fake virus warning
+- unwanted browser toolbars
+- redirect internet searches
+- Frequent random popups
+- Your friends receive fake emails from your email account
+- Your online passwords suddenly change
+- Unexpected software installs
+- Your mouse moves between programs and makes correct selections
+- Your antimalware software, Task Manager, or Registry Editor is disabled and can't be restarted
+- Your bank account is missing money
+- You get calls from stores about nonpayment of shipped goods
+
+Fake wireless access points
+Cookie theft
+File name tricks
+Location, location, location
+Hosts file redirect
+Waterhole attacks
+Bait and switch
